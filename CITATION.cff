@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: GABH
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nilanjana
+    family-names: Laha
+  - given-names: Austin
+    family-names: Labowitz
+  - given-names: Salil
+    family-names: Koner
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18748238
+repository-code: 'https://github.com/nilanjanalaha/GABH.git'
+abstract: >-
+  Code for "False Discovery Rate Control for Grouped
+  Hypotheses: Application to miRNAome Data"
+license: 0BSD
+version: v1
+date-released: '2026-02-23'
